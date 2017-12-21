@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1507978526 source:d:\c++ programs\bank inherits\main.cpp
+	<iostream>
+
