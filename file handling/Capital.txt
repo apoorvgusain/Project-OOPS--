@@ -1,0 +1,7 @@
+CAPITALS:
+----------------
+Delhi
+Tokyo
+Moscow
+Washington,D.C
+Beijing
